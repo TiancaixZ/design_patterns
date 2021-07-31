@@ -1,0 +1,4 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(£κ¥λ8Μµ•΅¬/
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Η®μϊ8ψϊ ¬/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ί®Πώÿÿÿÿÿ
