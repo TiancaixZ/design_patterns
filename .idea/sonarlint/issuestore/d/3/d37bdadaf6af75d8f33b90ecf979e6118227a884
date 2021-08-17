@@ -1,0 +1,5 @@
+
+V
+java:S1610	";Convert the abstract class "AbstractBox" into an interface.(ëšüËúÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(®öˆ8ªÆ£°/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ…Š¯
